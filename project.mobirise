@@ -34,7 +34,7 @@
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ivibe-logo-7-copy-128x98.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
